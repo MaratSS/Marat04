@@ -1,0 +1,35 @@
+
+.header {
+  background-color:  #cd6d32;
+  background: solid 5px blue;
+  padding: 20px;
+  text-align: left;
+  height: 100px;
+  width: 650px;
+  margin-right: 50px;
+}
+.content{
+  background-color: #ffff66;
+  padding: 20px;
+  text-align: middle;
+  height: 340px;
+  width: 150px;
+  
+}
+.section{
+
+  background-colorround: #4ddbff;
+  padding: 10px;
+  text-align: center;
+  height: 400px;
+  width: 400px;
+padding-left: 20px;
+}
+.footer{
+ background-color: #f1f1f1;
+  padding: 10px;
+  text-align: right;
+   height: 60px;
+   width: 650px;
+
+}
